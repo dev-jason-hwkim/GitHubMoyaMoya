@@ -22,7 +22,7 @@ pod 'GitHubMoyaMoya'
 
 ## Author
 
-Jason, jason@culturehero.net
+Jason, dev.hwkim@gmail.com
 
 ## License
 
